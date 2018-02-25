@@ -1,0 +1,273 @@
+{
+    "Items": {
+        "noOfItems": 2,
+        "item": [
+            {
+                "bcc": "",
+                "cc": "",
+                "docID": 7000000,
+                "downloadURL": "/cache/7000000/0.ev.html",
+                "from": "Nam Wong Ching, E.W.H. (Edward) <Edward.Nam.Wong.Ching@INGBank.com>;",
+                "id": 7000000,
+                "importItemID": 0,
+                "importMetadataFileID": 0,
+                "peopleFrom": {
+                    "address": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "group": 7,
+                    "id": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "label": "Nam Wong Ching, E.W.H. (Edward) (Edward.Nam.Wong.Ching@INGBank.com)",
+                    "personId": 1,
+                    "value": "Nam Wong Ching, E.W.H. (Edward)"
+                },
+                "peopleTo": {
+                    "address": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "group": 7,
+                    "id": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "label": "Nam Wong Ching, E.W.H. (Edward) (Edward.Nam.Wong.Ching@INGBank.com)",
+                    "personId": 1,
+                    "value": "Nam Wong Ching, E.W.H. (Edward)"
+                },
+                "tags": {
+                    "tags": [
+                        {
+                            "id": 2,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Nam Wong Ching",
+                            "tagID": 2
+                        },
+                        {
+                            "id": 10,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Conversations",
+                            "tagID": 10
+                        },
+                        {
+                            "id": 1,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Edward Nam",
+                            "tagID": 1
+                        },
+                        {
+                            "id": 5,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Edward",
+                            "tagID": 5
+                        },
+                        {
+                            "id": 12,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Janů",
+                            "tagID": 12
+                        },
+                        {
+                            "id": 6,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Alisa",
+                            "tagID": 6
+                        },
+                        {
+                            "id": 3,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Ching",
+                            "tagID": 3
+                        },
+                        {
+                            "id": 9,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Wong",
+                            "tagID": 9
+                        },
+                        {
+                            "id": 7,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Goog",
+                            "tagID": 7
+                        },
+                        {
+                            "id": 4,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Chat",
+                            "tagID": 4
+                        },
+                        {
+                            "id": 11,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Tue",
+                            "tagID": 11
+                        },
+                        {
+                            "id": 8,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Cet",
+                            "tagID": 8
+                        }
+                    ]
+                },
+                "textURL": "/cache/7000000/0.ev.html",
+                "timestamp": "2017-01-17 17:45:18",
+                "title": "RM: 2 Users, 8 Messages, 1 Min",
+                "to": "Nam Wong Ching, E.W.H. (Edward) <Edward.Nam.Wong.Ching@INGBank.com>;",
+                "url_ref": "/cache/7000000/0.ev.html",
+                "vox": 2,
+                "voxType": "IM"
+            },
+            {
+                "bcc": "",
+                "cc": "",
+                "docID": 7000001,
+                "downloadURL": "/cache/7000001/0.ev.html",
+                "from": "Nam Wong Ching, E.W.H. (Edward) <Edward.Nam.Wong.Ching@INGBank.com>;",
+                "id": 7000001,
+                "importItemID": 0,
+                "importMetadataFileID": 0,
+                "peopleFrom": {
+                    "address": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "group": 7,
+                    "id": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "label": "Nam Wong Ching, E.W.H. (Edward) (Edward.Nam.Wong.Ching@INGBank.com)",
+                    "personId": 1,
+                    "value": "Nam Wong Ching, E.W.H. (Edward)"
+                },
+                "peopleTo": {
+                    "address": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "group": 7,
+                    "id": "Edward.Nam.Wong.Ching@INGBank.com",
+                    "label": "Nam Wong Ching, E.W.H. (Edward) (Edward.Nam.Wong.Ching@INGBank.com)",
+                    "personId": 1,
+                    "value": "Nam Wong Ching, E.W.H. (Edward)"
+                },
+                "tags": {
+                    "tags": [
+                        {
+                            "id": 14,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Nam Wong Ching",
+                            "tagID": 2
+                        },
+                        {
+                            "id": 22,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Conversations",
+                            "tagID": 10
+                        },
+                        {
+                            "id": 13,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Edward Nam",
+                            "tagID": 1
+                        },
+                        {
+                            "id": 17,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Edward",
+                            "tagID": 5
+                        },
+                        {
+                            "id": 24,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Janů",
+                            "tagID": 12
+                        },
+                        {
+                            "id": 18,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Alisa",
+                            "tagID": 6
+                        },
+                        {
+                            "id": 15,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Ching",
+                            "tagID": 3
+                        },
+                        {
+                            "id": 21,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Wong",
+                            "tagID": 9
+                        },
+                        {
+                            "id": 19,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Goog",
+                            "tagID": 7
+                        },
+                        {
+                            "id": 16,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Chat",
+                            "tagID": 4
+                        },
+                        {
+                            "id": 23,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Tue",
+                            "tagID": 11
+                        },
+                        {
+                            "id": 20,
+                            "length": 0,
+                            "occurrence": 0,
+                            "seektime": 0,
+                            "tag": "Cet",
+                            "tagID": 8
+                        }
+                    ]
+                },
+                "textURL": "/cache/7000001/0.ev.html",
+                "timestamp": "2017-01-17 17:45:18",
+                "title": "RM: 2 Users, 8 Messages, 1 Min",
+                "to": "Nam Wong Ching, E.W.H. (Edward) <Edward.Nam.Wong.Ching@INGBank.com>;",
+                "url_ref": "/cache/7000001/0.ev.html",
+                "vox": 2,
+                "voxType": "IM"
+            }
+        ]
+    }
+}
